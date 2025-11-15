@@ -1,0 +1,51 @@
+body {
+  font-family: tahoma, sans-serif;
+  background: #eef1f5;
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: linear-gradient(135deg, #0066cc, #003f7f);
+  color: white;
+  text-align: center;
+  padding: 35px 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 15px;
+}
+
+.card {
+  background: #fff;
+  margin-top: 20px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #004080;
+}
+
+ul li {
+  line-height: 2;
+  font-size: 18px;
+}
+
+.contact p {
+  font-size: 20px;
+  margin: 8px 0;
+}
+
+.footer {
+  background: #003f7f;
+  text-align: center;
+  padding: 15px;
+  color: #fff;
+  margin-top: 40px;
+}
